@@ -1,3 +1,5 @@
+enablePlugins(GitVersioning, GitBranchPrompt)
+
 scalaVersion := "2.13.6"
 semanticdbEnabled := true
 semanticdbVersion := scalafixSemanticdb.revision
