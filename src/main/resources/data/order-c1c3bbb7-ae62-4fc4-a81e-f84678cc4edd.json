@@ -1,0 +1,28 @@
+{
+  "orderUUID": "c1c3bbb7-ae62-4fc4-a81e-f84678cc4edd",
+  "placedAt": "2019-01-01 00:00:00",
+  "customerName": "customer-0002",
+  "contact": "contact-0002",
+  "shippingAddress": "address-0002",
+  "grandTotal": 0,
+  "items": [
+    {
+      "cost": 0,
+      "shippingFee": 0,
+      "taxAmount": 0,
+      "productUUID": "19dc7621-35e9-4bdf-a78b-f59c53f9be12"
+    },
+    {
+      "cost": 0,
+      "shippingFee": 0,
+      "taxAmount": 0,
+      "productUUID": "b08275ad-9a4d-4ca5-8f45-0b88af17935e"
+    },
+    {
+      "cost": 0,
+      "shippingFee": 0,
+      "taxAmount": 0,
+      "productUUID": "0c8f1745-9231-4838-98d9-2876b2e79ba8"
+    }
+  ]
+}
